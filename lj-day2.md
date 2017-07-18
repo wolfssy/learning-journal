@@ -10,7 +10,7 @@ I also found out that using Windows for this course is a pain in the ass. Other 
 and I'm pretty sure he plays League of Legends since he named his cat "Alistair".
 
 
-///////////////////// DAY 5 
+///////////////////// DAY 5
 wooo Its friday on the first week! so far ive felt a rollercoaster of emotions. I originally thought I bit off more than I could
 chew but after the 2nd lab I felt better.  Going home accomplished of that number 6 question was a feeling of accomplishment
 I haven't felt in years.  It was like fixing the aircraft and watching it fly off thanks to me. I didn't expect to
@@ -21,3 +21,60 @@ books.  I can't wait until next month when I visit my homies in San Diego and ma
 for "being able to drink longer then Mike" (a buddy of mine).  
 What I really can't wait for is applying all this new stuff to a job and paying off all my families' bills so we can finally
 bounce back from the recession all those years ago.
+
+
+
+//////////////////////////////
+7/17/2017
+week 2-----Monday
+
+Today we went over how to geneerate a random number and use it for a "Salmon Cookies" inventory list.
+All of us were fairly struggling with it and trying our best to help each other.  it looked like this.
+
+//////////////////////        Alki          ////////////////////
+<!-- var alki= {
+  minCust: 2,
+  maxCust: 16,
+  avgCook: 4.6,
+  hourC: [],
+  randomPeeps: function (min,max){
+    return Math.floor(Math.random() * (this.maxCust - this.minCust)) + this.minCust
+  },
+  cookiesPerHour: function(){
+    for(var i = 0; i < timeOfDay.length; i++){
+      var cookiesPer = Math.floor(this.avgCook * this.randomPeeps());
+      this.hourC.push(cookiesPer);
+    }
+    return this.hourC;
+  },
+  cookiesPD: function(){
+    var total = 0
+    for(var i = 0; i < this.hourC.length; i++){
+      total += this.hourC[i];
+    }
+    return total;
+  },
+  render: function(){
+    var alkiUl = document.getElementById('alki');
+    for(var i = 0; i < timeOfDay.length; i++) {
+      var liEl = document.createElement('li');
+      liEl.textContent = timeOfDay[i] + ': ' + this.hourC[i] + ' Cookies per hour';
+      alkiUl.appendChild(liEl);
+    }
+    var total = document.getElementById('alki');
+    var liEl = document.createElement('li');
+    liEl.textContent = 'total: ' + this.cookiesPD(total);
+    total.appendChild(liEl);
+  }
+
+};
+
+alki.randomPeeps();
+alki.cookiesPerHour();
+alki.render(); -->
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+very fun and very interesting to see it finally working together.  Its crazy how we're using multiple functions as local
+variables and having it work with itself multiple times.  Im starting to realize that I can literally do whatever
+I want.  However its intimidating to even start and we do get help from the TA's.  I got this.
