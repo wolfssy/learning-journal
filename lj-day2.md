@@ -73,8 +73,13 @@ alki.randomPeeps();
 alki.cookiesPerHour();
 alki.render(); -->
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
+// ++++++++++++++++++++++++++
 very fun and very interesting to see it finally working together.  Its crazy how we're using multiple functions as local
 variables and having it work with itself multiple times.  Im starting to realize that I can literally do whatever
 I want.  However its intimidating to even start and we do get help from the TA's.  I got this.
+
+
+/////////++++++++++++++++++++++++
+I learned how to create a grid with the locations and math of random cookies sold.  With guidance from Mark
+I was able to understand how to add the total to the equation.  I need to study a lot more so i can actually
+retain all the information.  I have all the codes saved and need to go over them this weekend.
