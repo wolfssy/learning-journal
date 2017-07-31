@@ -2,3 +2,9 @@ Week 2 was stressful enough to get me a week's worth of reading behind.  After c
 
 DAY 2
 Yesterday showed me that I knew a lot but not enough.  I hit a wall when trying to write functions.  However when i went to bed i had a moment of clarity with how the bus-mall project should be done.  I need to make it somewhat similar to the salmon cookies except create an array to push the old images in and a new array to generate new images into so i can use that in a tdEl for the individual left, center, and right images.
+
+Day 3
+Yesterday was pretty cool.  I copied my entire code and printed it out through Notepad so I could go over it with a pen and sharpie so I could see the total outlook of it all.  Afterwards I was finally able to look through and decide where to put the codes that checks the old and new arrays as well as the array within itself.
+
+End of Week 3
+The week ended well but my late nights caught up to me so I was pretty tired for most of it.  The whole idea of being a coder still seems pretty annoying but apparently it gets easier so there's hope.  Either way I'm not complaining because the money will be worth it lol. Other then that I miss my weekends. TED talk is helping a lot.
