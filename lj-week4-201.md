@@ -3,3 +3,6 @@ Lola, Phil, Adam and I have been tasked with creating a game as our final.  We s
 
 // 8.4.2017
 its friday finally, this week wasn't as hard as the previous weeks luckily.  Our team has a presentation today that I can't wait to get over.  I'm in dire need of at least a couple days of my summer back.  plus it would be nice to not have to wake up at 5:00 again.  Anyways, i learned a ton about local storage and how to use functions to work CSS into the mix.  it makes things run a hell of a lot smoother.
+
+// 8.5.2017
+Its the end of the 201 course and holy crap it was stressful.  I really enjoyed it but the commute got old quick, I'm definitely taking the bus next time lol.  on my 10 days I'm going to look into building apps so I can get a jump on my ideas.  I feel confident with local storage now. I have all my codes saved on a folder, and once the mac comes in i'll store them in a private github repo.
