@@ -1,0 +1,3 @@
+<h1> # LJ Code 301 - Day 5 </h1>
+
+<p> Everything was going great this week as far as stress level and understanding the concept of everything.  That is until the hiccup on Friday with everyone being sick.  I felt thrown around when we went to do our lab and then told to go watch a presentation and then told to watch another one.  How am I supposed to do my homework or stay on top if I'm too busy trying to be courteous with presentations?? felt like a wasted day to me.  It's crazy how a little anomaly can ruin the rhythm.  I left super early because I just couldn't focus and didn't want to be there anymore.  Keep your head up Brandon, only a few more weeks and I can watch whatever tf  presentations I want lol  </p>
